@@ -1,7 +1,7 @@
 {
-  "name": "yadda",
+  "name": "diet-yadda",
   "version": "0.22.1",
-  "description": "A true BDD framework for JavaScript",
+  "description": "A true BDD framework for JavaScript - slimmed down",
   "main": "./lib/index.js",
   "devDependencies": {
     "browserify": "10.2.6",
